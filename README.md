@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/HVkDw1w/github-banner-mamun.png" alt="MD MAMUN MOLLA Banner" width="100%" />
+  <img src="https://ibb.co.com/TBpwYs68" alt="MD MAMUN MOLLA Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>MD MAMUN MOLLA</strong></h1>
