@@ -59,16 +59,17 @@ Currently working on expanding my portfolio with real projects.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mamun007molla&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamun007molla&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamun007molla&show_icons=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mamun007molla&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun007molla&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun007molla&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
