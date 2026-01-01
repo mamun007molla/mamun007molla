@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://ibb.co.com/TBpwYs68" alt="MD MAMUN MOLLA Banner" width="100%" />
+  <a href="https://ibb.co.com/TBpwYs68"><img src="https://i.ibb.co.com/gMHrmxNT/Gemini-Generated-Image-3nga0l3nga0l3nga-1.png" alt="Gemini-Generated-Image-3nga0l3nga0l3nga-1" border="0" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>MD MAMUN MOLLA</strong></h1>
